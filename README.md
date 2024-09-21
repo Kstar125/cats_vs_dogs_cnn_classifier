@@ -1,0 +1,1 @@
+A custom CNN implementation designed to classify images from Tesnorflow's Cats vs Dogs dataset.
